@@ -1,6 +1,7 @@
 @import url('https://fonts.cdnfonts.com/css/gemseatrial');
 
 body {
+    font-family: 'gemseatrial', serif;
     background: #bdb2ff;
 }
 
@@ -25,7 +26,6 @@ body {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); 
     transition: all 0.3s ease; 
     border-radius: 20px;
-    font-family: 'gemseatrial', sans-serif;
 }
 
 .box:hover {
