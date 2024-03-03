@@ -1,3 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/gemseatrial');
+
 body {
     background: #bdb2ff;
 }
@@ -23,7 +25,7 @@ body {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); 
     transition: all 0.3s ease; 
     border-radius: 20px;
-    font-family: cursive;
+    font-family: 'gemseatrial', sans-serif;
 }
 
 .box:hover {
@@ -42,8 +44,8 @@ body {
 
 #big-box, #big-box1, #big-box2, #big-box3, #big-box4, #big-box5, #big-box6, #big-box7 {
     position: absolute;
-    right: 15vw; /* Adjust as needed */
-    top: 15vh; /* Adjust as needed */
+    right: 15vw;
+    top: 15vh;
     width: 300px; 
     height: 300px; 
     display: none; 
